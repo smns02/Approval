@@ -1,13 +1,1 @@
-
-{
-  "status": true,
-  "version": "1.0",
-  "require_update_least_version": false,
-  "__client__": [
-    {
-      "device_id": "f0e741e9360e60e2",
-      "license_key": "999999999999999999999999",
-      "expire_date": "2026-12-31"
-    }
-  ]
-}
+{"status":true,"version":"1.3","require_update_least_version":false,"_client":[{"f0e741e9360e60e2":"AJXW-QX2L-NJPK-HQSX-KBPU-WM2Z"},{"f3b1504d55f03511":"ALFL-M6MB-5JPD-IZSZ-6VQA-GZQE"}]}

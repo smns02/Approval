@@ -1,1 +1,13 @@
 
+{
+  "status": true,
+  "version": "1.0",
+  "require_update_least_version": false,
+  "__client__": [
+    {
+      "device_id": "f0e741e9360e60e2",
+      "license_key": "YOUR_LICENSE_KEY",
+      "expire_date": "2026-12-31"
+    }
+  ]
+}
